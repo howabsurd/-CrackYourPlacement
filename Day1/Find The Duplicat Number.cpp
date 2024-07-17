@@ -8,3 +8,5 @@ public:
         return 0;
     }
 };
+
+// solved using negatory method
